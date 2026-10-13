@@ -1,0 +1,47 @@
+[
+  {
+    "student_id": 101,
+    "first_name": "Ayan",
+    "last_name": "Sarsenov",
+    "birth_date": "2005-04-12",
+    "group_id": "G001",
+    "phone": "+7-700-555-1001",
+    "email": "ayan.sarsenov@student.university.example"
+  },
+  {
+    "student_id": 102,
+    "first_name": "Dana",
+    "last_name": "Bekova",
+    "birth_date": "2005-08-25",
+    "group_id": "G002",
+    "phone": "+7-700-555-1002",
+    "email": "dana.bekova@student.university.example"
+  },
+  {
+    "student_id": 103,
+    "first_name": "David",
+    "last_name": "Wilson",
+    "birth_date": "2004-11-03",
+    "group_id": "G003",
+    "phone": "+7-700-555-1003",
+    "email": "david.wilson@student.university.example"
+  },
+  {
+    "student_id": 104,
+    "first_name": "Amina",
+    "last_name": "Tulegenova",
+    "birth_date": "2005-02-17",
+    "group_id": "G004",
+    "phone": null,
+    "email": "amina.tulegenova@student.university.example"
+  },
+  {
+    "student_id": 105,
+    "first_name": "Bekzat",
+    "last_name": "Kassymov",
+    "birth_date": "2004-09-21",
+    "group_id": "G005",
+    "phone": "+7-700-555-1005",
+    "email": "bekzat.kassymov@student.university.example"
+  }
+]

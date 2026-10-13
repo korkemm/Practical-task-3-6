@@ -1,0 +1,16 @@
+﻿student_id,first_name,last_name,birth_date,group_id,phone,email
+101,Ayan,Sarsenov,2005-04-12,G001,+7-700-555-1001,ayan.sarsenov@student.university.example
+102,Dana,Bekova,2005-08-25,G002,+7-700-555-1002,dana.bekova@student.university.example
+103,David,Wilson,2004-11-03,G003,+7-700-555-1003,david.wilson@student.university.example
+104,Amina,Tulegenova,2005-02-17,G004,,amina.tulegenova@student.university.example
+105,Bekzat,Kassymov,2004-09-21,G005,+7-700-555-1005,bekzat.kassymov@student.university.example
+106,Madina,Iskakova,2005-06-08,G006,+7-700-555-1006,madina.iskakova@student.university.example
+107,Erlan,Nurpeisov,2004-12-14,G007,+7-700-555-1007,erlan.nurpeisov@student.university.example
+108,Zarina,Omarova,2005-03-30,G008,+7-700-555-1008,zarina.omarova@student.university.example
+109,Timur,Aliyev,2004-07-19,G009,+7-700-555-1009,timur.aliyev@student.university.example
+110,Aruzhan,Nurlanova,2005-10-02,G010,+7-700-555-1010,aruzhan.nurlanova@student.university.example
+111,Samat,Ermekov,2004-05-26,G011,+7-700-555-1011,samat.ermekov@student.university.example
+112,Kundyz,Rakhym,2005-01-11,G012,+7-700-555-1012,kundyz.rakhym@student.university.example
+113,Nursultan,Smagulov,2004-08-06,G013,+7-700-555-1013,nursultan.smagulov@student.university.example
+114,Aigerim,Muratova,2005-11-23,G014,+7-700-555-1014,aigerim.muratova@student.university.example
+115,Dias,Serikova,2004-04-04,G015,+7-700-555-1015,dias.serikova@student.university.example
